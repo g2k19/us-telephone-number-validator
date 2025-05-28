@@ -1,6 +1,6 @@
 # US Telephone Number Validator
 
-This is a simple web app built as part of a freeCodeCamp project. It allows users to check if a given input is a valid US telephone number.
+This is a simple web app built as part of the freeCodeCamp curriculum. It allows users to check if a given input is a valid US telephone number.
 
 ## Live Demo
 
